@@ -66,7 +66,7 @@ This ensures consistent and accurate predictions.
 
 🚀 How to Run the Streamlit App
 1️⃣ Clone the Repository
-git clone <>
+git clone <https://github.com/Jnaneswari123/Churn_prediction.git>
 cd C:\Users\satya\OneDrive\Desktop\4 logistic_reg_multiclass\chrun
 
 2️⃣ Install Dependencies
@@ -115,3 +115,4 @@ Deploy on Streamlit Cloud
 
 
 Bongu Jnaneswari
+
