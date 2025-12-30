@@ -66,8 +66,8 @@ This ensures consistent and accurate predictions.
 
 🚀 How to Run the Streamlit App
 1️⃣ Clone the Repository
-git clone <your-repository-url>
-cd customer-churn-streamlit-app
+git clone <>
+cd C:\Users\satya\OneDrive\Desktop\4 logistic_reg_multiclass\chrun
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -112,5 +112,6 @@ SHAP-based explanation
 Deploy on Streamlit Cloud
 
 👩‍💻 Author
+
 
 Bongu Jnaneswari
